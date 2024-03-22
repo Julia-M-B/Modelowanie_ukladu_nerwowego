@@ -1,0 +1,5 @@
+matplotlib==3.8.3
+NEURON==8.2.4
+numpy==1.26.4
+plotly==5.20.0
+scipy==1.12.0
